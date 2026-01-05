@@ -1,15 +1,19 @@
 # Berufe, Sprache im Bundestag und Stereotype
-###### Annotationsguideline, Stand: 11.12.2025
+###### Annotationsguideline, Stand: 05.01.2026
 
 Der folgende Annotationsguide soll dabei helfen, wertende Äußerungen in Bezug auf Berufsgruppen in Bundestagsdebatten zu erkennen. 
 
 Die Zitate können aus dem Zeitraum von 1949 bis 2021 stammen. In jedem Satz ist jeweils eine Berufsbezeichnung fett markiert und zugehörige Nominalphrase unterstrichen. 
 
-Pro Zitat bitten wir Sie einzuschätzen, wie der/die Redner/in **die Berufsgruppe darstellen** möchte. Dabei steht im Vordergrund, dass ein bestimmtes Bild vermittelt wird. Es geht nicht darum, was der/die Redner/in über die Berufsgruppe denken könnte oder welches Bild Sie selbst von der Berufsgruppe haben. 
+Pro Zitat bitten wir Sie einzuschätzen, wie der/die Redner/in **die Berufsgruppe darstellen** möchte. Dabei steht im Vordergrund, dass ein bestimmtes Bild vermittelt wird. Weil politische Reden oft eine Absicht verfolgen, kann dieses Bild manchmal von dem abweichen, was der/die Redner/in über die Berufsgruppe denkt. Beim Annotieren sollen Sie sich aber auf das **vermittelte Bild** konzentrieren. Welches Bild Sie selbst von der Berufsgruppe haben sollte dabei keine Rolle spielen.
 
+## Das Annotationsschema
 Für die Einschätzung stehen verschiedene Ausprägungen (z.B. aufrichtig/unaufrichtig, fleißig/arbeitsscheu) zur Auswahl. Bei jeder Ausprägung gibt es die Möglichkeit „weder-noch“ zu wählen, wenn diese Ausprägung in der Aussage nicht vermittelt wird. Erfahrungsgemäß trifft diese Ausprägung bei vielen Aussagen zu.
 
+<img src="https://github.com/user-attachments/assets/e37fcac9-cb60-4170-8873-65f88840d35c" width="650" alt="OPALS_Fragestruktur_Limesurvey" />
+
 ## Verschiedene Arten von Nominalphrasen
+Manchmal enthält die Nominalphrase mehr als nur eine Berufsbezeichnung oder andere Substantive. Hier wird beschrieben, wie in diesen Fällen annotiert werden soll:
 ### Mehrere Berufsbezeichnungen als homogene Gruppe
 > "*Eine Richterin oder **ein Krankenpfleger**, die bzw. der in meinem Wahlkreis in Wilhelmsburg, Neuwiedenthal oder Bergedorf-West lebt*, ist nach diesem Verfahren weniger kreditwürdig als eine Richterin oder ein Krankenpfleger, die bzw. der in Hamburg-Blankenese wohnt."
 
