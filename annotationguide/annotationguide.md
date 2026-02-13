@@ -1,30 +1,54 @@
 # Berufe, Sprache im Bundestag und Stereotype
-###### Annotationsguideline, Stand: 05.01.2026
+###### Annotationsguideline, Stand: 13.02.2026
 
-Der folgende Annotationsguide soll dabei helfen, wertende Äußerungen in Bezug auf Berufsgruppen in Bundestagsdebatten zu erkennen. 
+Dieser Annotationsguide soll dabei helfen, **wertende Darstellungen von Berufsgruppen in Bundestagsdebatten** systematisch zu erfassen.
 
-Die Zitate können aus dem Zeitraum von 1949 bis 2021 stammen. In jedem Satz ist jeweils eine Berufsbezeichnung fett markiert und zugehörige Nominalphrase unterstrichen. 
+Die Zitate stammen aus dem **Zeitraum von 1949 bis 2021**.
 
-Pro Zitat bitten wir Sie einzuschätzen, wie der/die Redner/in **die Berufsgruppe darstellen** möchte. Dabei steht im Vordergrund, dass ein bestimmtes Bild vermittelt wird. Weil politische Reden oft eine Absicht verfolgen, kann dieses Bild manchmal von dem abweichen, was der/die Redner/in über die Berufsgruppe denkt. Beim Annotieren sollen Sie sich aber auf das **vermittelte Bild** konzentrieren. Welches Bild Sie selbst von der Berufsgruppe haben sollte dabei keine Rolle spielen.
+In jedem Satz ist: - eine **Berufsbezeichnung fett markiert** - die **zugehörige Nominalphrase unterstrichen** 
+Aufgabe ist es, einzuschätzen, **wie der/die Redner/in die Berufsgruppe darstellen möchte**.
+
+Wichtig:
+- Politische Reden verfolgen häufig strategische Ziele. Das **vermittelte Bild** kann daher von der tatsächlichen Überzeugung der sprechenden Person abweichen.
+- Im Vordergrund steht das **vermittelte Bild**, nicht die vermutete persönliche Meinung des/der Redner/in.
+- Die eigene Meinung über die Berufsgruppe soll bei der Bewertung **keine Rolle spielen**.
+- Annotiert wird ausschließlich die **im Zitat vermittelte Darstellung**.
 
 ## Das Annotationsschema
-Für die Einschätzung stehen verschiedene Ausprägungen (z.B. aufrichtig/unaufrichtig, fleißig/arbeitsscheu) zur Auswahl. Bei jeder Ausprägung gibt es die Möglichkeit „weder-noch“ zu wählen, wenn diese Ausprägung in der Aussage nicht vermittelt wird. Erfahrungsgemäß trifft diese Ausprägung bei vielen Aussagen zu.
+Für jede Berufsgruppe werden verschiedene Dimensionen bewertet (z.B. aufrichtig/unaufrichtig, fleißig/arbeitsscheu etc.). Diese Dimensionen sind als **semantische Differentiale** aufgebaut.
+Ein semantisches Differential besteht aus **zwei gegensätzlichen Eigenschaften** (z.B. fleißig vs. arbeitsscheu). 
+
+Aufgabe ist es einzuschätzen, in welche Richtung das Zitat die Berufsgruppe darstellt.
+**Wichtig ist**: Bewerte nicht, ob die Berufsgruppe tatsächlich so ist, sondern **ob im Zitat eine entsprechende Eigenschaft zugeschrieben oder nahegelegt wird**.
+
+Für jede Dimension stehen folgende Antwortmöglichkeiten zur Verfügung:
+- positive Ausprägung
+- negative Ausprägung
+- weder-noch
+
+Die Option „weder-noch“ ist zu wählen, wenn im Zitat keine erkennbare Zuschreibung in eine der beiden Richtungen erfolgt.
+Es soll nur das bewertet werden, was sprachlich vermittelt wird – nicht das, was theoretisch mitgemeint sein könnte.
 
 <img src="https://github.com/user-attachments/assets/e37fcac9-cb60-4170-8873-65f88840d35c" width="650" alt="OPALS_Fragestruktur_Limesurvey" />
 
-## Verschiedene Arten von Nominalphrasen
-Manchmal enthält die Nominalphrase mehr als nur eine Berufsbezeichnung oder andere Substantive. Hier wird beschrieben, wie in diesen Fällen annotiert werden soll:
-### Mehrere Berufsbezeichnungen als homogene Gruppe
-> "*Eine Richterin oder **ein Krankenpfleger**, die bzw. der in meinem Wahlkreis in Wilhelmsburg, Neuwiedenthal oder Bergedorf-West lebt*, ist nach diesem Verfahren weniger kreditwürdig als eine Richterin oder ein Krankenpfleger, die bzw. der in Hamburg-Blankenese wohnt."
+## Umgang mit verschiedenen Arten von Nominalphrasen
+Nicht alle Nominalphrasen enthalten nur eine einzelne Berufsbezeichnung. Entscheidend ist immer, **welche Berufsgruppe konkret bewertet werden soll**. 
+Grundregel: Annotiert wird ausschließlich die **fett markierte Berufsbezeichnung** und das Bild, das im jeweiligen Satz von dieser Gruppe vermittelt wird.
 
-Richterin und Krankenpfleger bilden hier eine homogene Gruppe, der geringere Kreditwürdigkeit unterstellt wird. Entscheidend ist hier auch der Relativsatz, der diese Gruppe von Richterin und Krankenpfleger in Blankense unterscheidet.
+## Mehrere Berufsbezeichnungen als homogene Gruppe
+Beispiel: „Eine **Richterin oder ein Krankenpfleger**, die bzw. der in meinem Wahlkreis in Wilhelmsburg, Neuwiedenthal oder Bergedorf-West lebt, ist nach diesem Verfahren weniger kreditwürdig als eine Richterin oder ein Krankenpfleger, die bzw. der in Hamburg-Blankenese wohnt.“
+Hier bilden Richterin und Krankenpfleger eine gemeinsame, homogene Gruppe. Ihnen wird eine bestimmte Eigenschaft zugeschrieben (hier: geringere Kreditwürdigkeit).
+Wenn mehrere Berufsbezeichnungen gemeinsam als eine einheitliche Gruppe dargestellt werden, wird die Bewertung auf diese gemeinsame Darstellung bezogen.
+**Entscheidend ist, ob die Berufsgruppen sprachlich gleich behandelt und mit derselben Eigenschaft versehen werden.**
 
-### Berufsbezeichnung zusammen mit nicht-Berufsbezeichnungen als homogene Gruppe
-> "***Pflegekräfte** und Institutionen* sind für alles zuständig und bevormunden die ganze Person. Bei Heimeinweisung wird man durch den Verlust der häuslichen Atmosphäre isoliert, Kontakte zu Freunden und Bekannten gehen verloren."
+## Berufsbezeichnung zusammen mit nicht-beruflichen Bezeichnungen
+Beispiel: **„Pflegekräfte und Institutionen„** sind für alles zuständig und bevormunden die ganze Person.“
+Hier wird eine Berufsgruppe gemeinsam mit einer anderen Kategorie genannt. Beide erscheinen als gemeinsame handelnde Einheit.
+**Annotiert wird jedoch ausschließlich die Darstellung der Berufsgruppe (hier: Pflegekräfte).**
+Wichtig ist, ob der Berufsgruppe eine Eigenschaft zugeschrieben wird – auch wenn sie Teil einer größeren Gruppe ist.
 
-In diesem Fall wird eine Berufsgruppe gemeinsam mit einer nicht-Berufsgruppe genannt, die aber gemeinsam als homogene Gruppe dargestellt werden (alle Individuen der Gruppe bevormunden Heimbewohner). In diesem Fall werden alle Einschätzungen vorgenommen, die die Pflegekräfte betreffen.
-
-### Kontrastierung zwischen Berufsbezeichnungen
-> "Wir haben damals zwei Gruppen hervorgehoben. Das waren ***die Erzieher** und die Richter*. Bei Erziehern weiß die Gesellschaft, dass sie unterbesetzt sind. Bei den Richtern ist das aber nicht so. Unsere Richter — das kann man zu ihrem Ruhm doch sagen — haben in der Vertretung ihrer eigenen Belange — auch der finanziellen Belange — in Anbetracht der Bedeutung ihres Amtes in der Öffentlichkeit stets eine betonte Zurückhaltung gezeigt."
-
-In diesem Fall werden beide Berufgruppen in einer Nominalphrase genannt, allerdings wird anschließend zwischen beiden Berufsgruppen konstratiert ("Bei den Richtern war das aber nicht so"). In diesem Fall werden alle Einschätzungen vorgenommen, die die fett markierte Berufsgruppe (Erzieher) betreffen.
+## Kontrastierung zwischen Berufsgruppen
+Beispiel: „Das waren die **Erzieher und die Richter**. Bei Erziehern weiß die Gesellschaft, dass sie unterbesetzt sind. Bei den Richtern ist das aber nicht so.“
+Hier werden mehrere Berufsgruppen genannt, aber anschließend deutlich kontrastiert. In solchen Fällen gilt: Es wird ausschließlich die fett markierte Berufsgruppe bewertet.
+Eigenschaften, die anderen Berufsgruppen zugeschrieben werden, dürfen nicht in die Bewertung einfließen.
+**Entscheidend ist die spezifische Darstellung der markierten Berufsgruppe im Kontext des Kontrasts.**
