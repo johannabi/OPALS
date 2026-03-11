@@ -31,7 +31,8 @@ Für jede Dimension stehen folgende Antwortmöglichkeiten zur Verfügung:
 Die Option „weder-noch“ ist zu wählen, wenn im Zitat keine erkennbare Zuschreibung in eine der beiden Richtungen erfolgt.
 Es soll nur das bewertet werden, was sprachlich vermittelt wird – nicht das, was theoretisch mitgemeint sein könnte.
 
-Die verschiedenen semantischen Differenziale liegen oft nah beieinander, daher sollen folgende Adjektive dabei helfen, die verschiedenen Eigenschaften voneinander zu unterscheiden:
+### Beschreibung der semantischen Differentiale
+Die verschiedenen semantischen Differentiale liegen oft nah beieinander, daher sollen folgende Adjektive dabei helfen, die verschiedenen Eigenschaften voneinander zu unterscheiden:
 
 | negative Ausprägung | Adjektive negative Ausprägung | Adjektive positive Ausprägung | positive Ausprägung |
 |---|---|---|---|
@@ -70,5 +71,6 @@ Beispiel: „Das waren die *Erzieher und die **Richter***. Bei Erziehern weiß d
 Hier werden mehrere Berufsgruppen genannt, aber anschließend deutlich kontrastiert. In solchen Fällen gilt: Es wird ausschließlich die fett markierte Berufsgruppe bewertet.
 Eigenschaften, die anderen Berufsgruppen zugeschrieben werden, dürfen nicht in die Bewertung einfließen.
 **Entscheidend ist die spezifische Darstellung der markierten Berufsgruppe im Kontext des Kontrasts.**
+
 
 
