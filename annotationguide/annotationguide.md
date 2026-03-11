@@ -31,30 +31,44 @@ Für jede Dimension stehen folgende Antwortmöglichkeiten zur Verfügung:
 Die Option „weder-noch“ ist zu wählen, wenn im Zitat keine erkennbare Zuschreibung in eine der beiden Richtungen erfolgt.
 Es soll nur das bewertet werden, was sprachlich vermittelt wird – nicht das, was theoretisch mitgemeint sein könnte.
 
+Die verschiedenen semantischen Differenziale liegen oft nah beieinander, daher sollen folgende Adjektive dabei helfen, die verschiedenen Eigenschaften voneinander zu unterscheiden:
+
+| negative Ausprägung | Adjektive negative Ausprägung | Adjektive positive Ausprägung | positive Ausprägung |
+|---|---|---|---|
+| unaufrichtig | unehrlich, verlogen, heuchlerisch | ehrlich, authentisch, wahrhaftig, integer | aufrichtig |
+| unfreundlich | unhöflich, abweisend, ruppig | höflich, zugewandt, respektvoll, entgegenkommend | freundlich |
+| bösartig | gehässig, niederträchtig, boshaft, missgünstig | wohlwollend, gutherzig, wohlmeinend | gutmütig |
+| kühl | distanziert, reserviert, emotionslos, unnahbar | mitfühlend, herzlich, empathisch, fürsorglich | warmherzig |
+| nachlässig | schlampig, oberflächlich, ungenau, leichtfertig | gewissenhaft, präzise, gründlich, akribisch | sorgfältig |
+| inkompetent | unfähig, unqualifiziert, fachlich schwach, überfordert | fachkundig, qualifiziert, sachkundig, professionell | kompetent |
+| arbeitsscheu | träge, faul, anstrengungsvermeidend, bequem | arbeitsam, engagiert, eifrig, leistungsbereit | fleißig |
+| leistungsschwach | ineffektiv, wenig produktiv, wenig belastbar | effizient, produktiv, belastbar, leistungsstark | leistungsfähig |
+
 
 ## Umgang mit verschiedenen Arten von Nominalphrasen
 Nicht alle Nominalphrasen enthalten nur eine einzelne Berufsbezeichnung.
 Entscheidend ist immer, **welche Berufsgruppe konkret bewertet werden soll**. 
 Grundregel: Annotiert wird ausschließlich die **fett markierte Berufsbezeichnung** und das Bild, das im jeweiligen Satz von dieser Gruppe vermittelt wird.
 
-## Mehrere Berufsbezeichnungen als homogene Gruppe
-Beispiel: „Eine **Richterin oder ein Krankenpfleger**, die bzw. der in meinem Wahlkreis in Wilhelmsburg, Neuwiedenthal oder Bergedorf-West lebt, ist nach diesem Verfahren weniger kreditwürdig als eine Richterin oder ein Krankenpfleger, die bzw. der in Hamburg-Blankenese wohnt.“
+### Mehrere Berufsbezeichnungen als homogene Gruppe
+Beispiel: „Eine *Richterin oder ein **Krankenpfleger***, die bzw. der in meinem Wahlkreis in Wilhelmsburg, Neuwiedenthal oder Bergedorf-West lebt, ist nach diesem Verfahren weniger kreditwürdig als eine Richterin oder ein Krankenpfleger, die bzw. der in Hamburg-Blankenese wohnt.“
 
 Hier bilden Richterin und Krankenpfleger eine gemeinsame, homogene Gruppe. Ihnen wird eine bestimmte Eigenschaft zugeschrieben (hier: geringere Kreditwürdigkeit).
 Wenn mehrere Berufsbezeichnungen gemeinsam als eine einheitliche Gruppe dargestellt werden, wird die Bewertung auf diese gemeinsame Darstellung bezogen.
 **Entscheidend ist, ob die Berufsgruppen sprachlich gleich behandelt und mit derselben Eigenschaft versehen werden.**
 
-## Berufsbezeichnung zusammen mit nicht-beruflichen Bezeichnungen
-Beispiel: **„Pflegekräfte und Institutionen„** sind für alles zuständig und bevormunden die ganze Person.“
+### Berufsbezeichnung zusammen mit nicht-beruflichen Bezeichnungen
+Beispiel: "***Pflegekräfte** und Institutionen* sind für alles zuständig und bevormunden die ganze Person.“
 
 Hier wird eine Berufsgruppe gemeinsam mit einer anderen Kategorie genannt. Beide erscheinen als gemeinsame handelnde Einheit.
 **Annotiert wird jedoch ausschließlich die Darstellung der Berufsgruppe (hier: Pflegekräfte).**
 Wichtig ist, ob der Berufsgruppe eine Eigenschaft zugeschrieben wird – auch wenn sie Teil einer größeren Gruppe ist.
 
-## Kontrastierung zwischen Berufsgruppen
-Beispiel: „Das waren die **Erzieher und die Richter**. Bei Erziehern weiß die Gesellschaft, dass sie unterbesetzt sind. Bei den Richtern ist das aber nicht so.“
+### Kontrastierung zwischen Berufsgruppen
+Beispiel: „Das waren die *Erzieher und die **Richter***. Bei Erziehern weiß die Gesellschaft, dass sie unterbesetzt sind. Bei den Richtern ist das aber nicht so.“
 
 Hier werden mehrere Berufsgruppen genannt, aber anschließend deutlich kontrastiert. In solchen Fällen gilt: Es wird ausschließlich die fett markierte Berufsgruppe bewertet.
 Eigenschaften, die anderen Berufsgruppen zugeschrieben werden, dürfen nicht in die Bewertung einfließen.
 **Entscheidend ist die spezifische Darstellung der markierten Berufsgruppe im Kontext des Kontrasts.**
+
 
