@@ -1,11 +1,14 @@
 # Berufe, Sprache im Bundestag und Stereotype
-###### Annotationsguideline, Stand: 13.02.2026
+###### Annotationsguideline, Stand: 26.03.2026
 
 Dieser Annotationsguide soll dabei helfen, **wertende Darstellungen von Berufsgruppen in Bundestagsdebatten** systematisch zu erfassen.
 
 Die Zitate stammen aus dem **Zeitraum von 1949 bis 2021**.
 
-In jedem Satz ist: - eine **Berufsbezeichnung fett markiert** - die **zugehörige Nominalphrase unterstrichen** 
+In jedem Redenausschnitt ist: 
+- eine **Berufsbezeichnung fett markiert**
+- die **zugehörige Nominalphrase unterstrichen**
+
 Aufgabe ist es, einzuschätzen, **wie der/die Redner/in die Berufsgruppe darstellen möchte**.
 
 Wichtig:
@@ -22,13 +25,13 @@ Aufgabe ist es einzuschätzen, in welche Richtung das Zitat die Berufsgruppe dar
 **Wichtig ist**: Bewerte nicht, ob die Berufsgruppe tatsächlich so ist, sondern **ob im Zitat eine entsprechende Eigenschaft zugeschrieben oder nahegelegt wird**.
 
 Für jede Dimension stehen folgende Antwortmöglichkeiten zur Verfügung:
-- positive Ausprägung
-- negative Ausprägung
-- weder-noch
+- **positive Ausprägung**
+- **negative Ausprägung**
+- **sowohl als auch**: im Zitat wird eine Dimension sowohl positiv als auch negativ zugeschrieben (zum Beispiel *Wir stellen sowohl kompetente als auch inkompetente Ärzte ein*).
+- **keine Antwort**: im Zitat erfolgt keine erkenntbare Zuschreibung in dieser Dimension
 
-<img src="https://github.com/user-attachments/assets/e37fcac9-cb60-4170-8873-65f88840d35c" width="650" alt="OPALS_Fragestruktur_Limesurvey" />
+<img src="https://github.com/user-attachments/assets/713e3ef7-c894-41e5-a8e7-acea232191b2" width="700" alt="OPALS_Fragestruktur_Limesurvey" />
 
-Die Option „weder-noch“ ist zu wählen, wenn im Zitat keine erkennbare Zuschreibung in eine der beiden Richtungen erfolgt.
 Es soll nur das bewertet werden, was sprachlich vermittelt wird – nicht das, was theoretisch mitgemeint sein könnte.
 
 ### Beschreibung der semantischen Differentiale
@@ -49,7 +52,7 @@ Die verschiedenen semantischen Differentiale liegen oft nah beieinander, daher s
 ## Umgang mit verschiedenen Arten von Nominalphrasen
 Nicht alle Nominalphrasen enthalten nur eine einzelne Berufsbezeichnung.
 Entscheidend ist immer, **welche Berufsgruppe konkret bewertet werden soll**. 
-Grundregel: Annotiert wird ausschließlich die **fett markierte Berufsbezeichnung** und das Bild, das im jeweiligen Satz von dieser Gruppe vermittelt wird.
+Grundregel: Annotiert wird ausschließlich die **fett markierte Berufsbezeichnung** und das Bild, das im jeweiligen Redenausschnitt von dieser Gruppe vermittelt wird.
 
 ### Mehrere Berufsbezeichnungen als homogene Gruppe
 Beispiel: „Eine *Richterin oder ein **Krankenpfleger***, die bzw. der in meinem Wahlkreis in Wilhelmsburg, Neuwiedenthal oder Bergedorf-West lebt, ist nach diesem Verfahren weniger kreditwürdig als eine Richterin oder ein Krankenpfleger, die bzw. der in Hamburg-Blankenese wohnt.“
