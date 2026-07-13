@@ -1,5 +1,5 @@
 # Berufe, Sprache im Bundestag und Stereotype
-###### Annotationsguideline, Stand: 26.03.2026
+###### Annotationsguideline, Stand: 13.07.2026
 
 Dieser Annotationsguide soll dabei helfen, **wertende Darstellungen von Berufsgruppen in Bundestagsdebatten** systematisch zu erfassen.
 
@@ -7,7 +7,7 @@ Die Zitate stammen aus dem **Zeitraum von 1949 bis 2021**.
 
 In jedem Redenausschnitt ist: 
 - eine **Berufsbezeichnung fett markiert**
-- die **zugehörige Nominalphrase unterstrichen**
+- die **zugehörige Nominalphrase kursiv**
 
 Aufgabe ist es, einzuschätzen, **wie der/die Redner/in die Berufsgruppe darstellen möchte**.
 
