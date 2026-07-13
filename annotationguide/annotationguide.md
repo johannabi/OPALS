@@ -28,7 +28,7 @@ Für jede Dimension stehen folgende Antwortmöglichkeiten zur Verfügung:
 - **positive Ausprägung**
 - **negative Ausprägung**
 - **sowohl als auch**: im Zitat wird eine Dimension sowohl positiv als auch negativ zugeschrieben (zum Beispiel *Wir stellen sowohl kompetente als auch inkompetente Ärzte ein*).
-- **keine Antwort**: im Zitat erfolgt keine erkenntbare Zuschreibung in dieser Dimension
+- **keine Antwort**: im Zitat erfolgt keine erkennbare Zuschreibung in dieser Dimension
 
 <img src="https://github.com/user-attachments/assets/713e3ef7-c894-41e5-a8e7-acea232191b2" width="700" alt="OPALS_Fragestruktur_Limesurvey" />
 
